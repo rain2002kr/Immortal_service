@@ -1,0 +1,2 @@
+rootProject.name='Immortal_service'
+include ':app'
